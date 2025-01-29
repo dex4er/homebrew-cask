@@ -703,6 +703,7 @@ media-center
 mediahuman-youtube-downloader
 mediainfo
 mediamate
+mega
 megasync
 mellel
 melodics
